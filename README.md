@@ -1,5 +1,4 @@
-# -
-iOS库和常用博客备忘
+# iOS库和常用博客备忘
 
 1、Github-iOS备忘
 http://github.ibireme.com/github/list/ios/
